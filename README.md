@@ -21,7 +21,7 @@ Requirements
 ------------
 
   * libjudy
-	  * Debian-based: `apt-get install libjudy`
+	  * Debian-based: `apt-get install libjudy-dev`
 	  * OSX: `brew install judy`
 
 API
